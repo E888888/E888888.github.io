@@ -90,3 +90,78 @@ content:
         - name: macOS 图标生成器
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
+
+    - name: 🔍资源搜索
+      sites:
+        - name: 柒夜导航
+          description: 黑科技网站资源集。
+          url: https://nav.qinight.com 
+        - name: 千帆搜索
+          description: 坚持做最好用的 聚合网盘搜索引擎，服务你我他，深藏功与名！
+          url: https://pan.qianfan.app
+        - name: 猫狸盘搜
+          description: 阿里云盘搜索神器。
+          url: https://www.alipansou.com
+
+     - name: 🎬影视追剧
+      sites:
+        - name: 高清影视
+          description: 发现和探索全球优质的影视资源，高清才是硬道理。
+          url: https://watch.readzn.com
+        - name: 搜片影视
+          description: 搜你想看的影片。
+          url: https://soupian.pro
+        - name: 神马影院
+          description: 午夜不卡，电影天堂。
+          url: https://zmcdy.com
+        - name: 暴风资源
+          description: 暴风资源全面升级，无水印，三网直连，秒拉秒播，全网最快没有之一。
+          url: https://bfzy.tv
+
+     - name: 💎高清图库
+      sites:
+        - name: Wallhaven
+          description: 超棒的壁纸资源地。
+          url: https://wallhaven.cc
+
+     - name: 💎图片工具
+      sites:
+        - name: 图片放大
+          description: 超棒的图片放大网站。
+          url: https://cappuccino.moe
+        - name: 图片清晰吧
+          description: 操作简单，用着顺手，效率超高。
+          url: https://www.tpqxb.com
+          
+     - name: 💎软件中心
+      sites:
+        - name: 数码荔枝
+          description: 专注于分享最新鲜优秀的正版软件（正版软件购买）。
+          url: https://lizhi.shop
+        - name: 腾讯软件
+          description: 海量软件下载 管理无忧；一键下载安装|安全无捆绑|更新无插件|卸载无残留。
+          url: https://pc.qq.com
+        - name: 极简插件
+          description: 浏览器插件下载。
+          url: https://chrome.zzzmh.cn
+          
+     - name: 💎游戏资源
+      sites:
+        - name: WeGame
+          description: 腾讯研发的PC游戏平台。
+          url: https://www.wegame.com.cn/home
+        - name: Steam
+          description: 海外游戏平台。
+          url: https://store.steampowered.com
+        - name: Epic
+          description: 海外游戏平台。
+          url: https://chrome.zzzmh.cn
+        - name: 风灵月影
+          description: 一款免费的修改器，由玩家自主研制开发的游戏修改器合集，在游戏中，使用修改器可以改变游戏的一些设定，比如调整游戏难度、增加游戏资源等。
+          url: https://flingtrainer.com
+        - name: SteamDB
+          description: 专业查询各类游戏发售情况与历史最低价格。
+          url: https://steamdb.info
+        - name: SteamGridDB
+          description: 免费定制几乎所有游戏的艺术作品！
+          url: https://www.steamgriddb.com
