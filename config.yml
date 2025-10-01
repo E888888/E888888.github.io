@@ -75,3 +75,30 @@ content:
         - name: 完美邮箱
           description: 新一代个人免费邮箱，完美邮箱让沟通更正式，更完美。
           url: https://www.88.com
+
+    - name: 🔥工具箱
+      sites:
+        - name: ICO51
+          description: 在线免费生成透明ICO图标。
+          url: https://www.ico51.cn
+        - name: ICO图标转换
+          description: 在线免费快速的将您图片转换成多尺寸ICO图标格式。
+          url: https://ico.pljzy.top
+        - name: APP ICON
+          description: 在线从 App Store 下载高清应用图标。
+          url: https://icon.3earth.space
+        - name: macOS 图标生成器
+          description: 兼容 macOS 的图标生成器。
+          url: https://yc-w-cn.github.io/macos-compliant-icon-generator
+
+    - name: 🔍资源搜索
+      sites:
+        - name: 柒夜导航
+          description: 黑科技网站资源集。
+          url: https://nav.qinight.com 
+        - name: 千帆搜索
+          description: 坚持做最好用的 聚合网盘搜索引擎，服务你我他，深藏功与名！
+          url: https://pan.qianfan.app
+        - name: 猫狸盘搜
+          description: 阿里云盘搜索神器。
+          url: https://www.alipansou.com
