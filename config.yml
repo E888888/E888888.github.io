@@ -117,3 +117,18 @@ content:
         - name: 暴风资源
           description: 暴风资源全面升级，无水印，三网直连，秒拉秒播，全网最快没有之一。
           url: https://bfzy.tv
+
+    - name: 💎高清图库
+      sites:
+        - name: Wallhaven
+          description: 超棒的壁纸资源地。
+          url: https://wallhaven.cc
+
+    - name: 💎图片工具
+      sites:
+        - name: 图片放大
+          description: 超棒的图片放大网站。
+          url: https://cappuccino.moe
+        - name: 图片清晰吧
+          description: 操作简单，用着顺手，效率超高。
+          url: https://www.tpqxb.com
