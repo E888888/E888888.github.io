@@ -132,3 +132,16 @@ content:
         - name: 图片清晰吧
           description: 操作简单，用着顺手，效率超高。
           url: https://www.tpqxb.com
+
+    - name: 💎软件中心
+      sites:
+        - name: 数码荔枝
+          description: 专注于分享最新鲜优秀的正版软件（正版软件购买）。
+          url: https://lizhi.shop
+        - name: 腾讯软件
+          description: 海量软件下载 管理无忧；一键下载安装|安全无捆绑|更新无插件|卸载无残留。
+          url: https://pc.qq.com
+        - name: 极简插件
+          description: 浏览器插件下载。
+          url: https://chrome.zzzmh.cn
+          
