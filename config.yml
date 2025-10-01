@@ -102,3 +102,18 @@ content:
         - name: 猫狸盘搜
           description: 阿里云盘搜索神器。
           url: https://www.alipansou.com
+
+    - name: 🎬影视追剧
+      sites:
+        - name: 高清影视
+          description: 发现和探索全球优质的影视资源，高清才是硬道理。
+          url: https://watch.readzn.com
+        - name: 搜片影视
+          description: 搜你想看的影片。
+          url: https://soupian.pro
+        - name: 神马影院
+          description: 午夜不卡，电影天堂。
+          url: https://zmcdy.com
+        - name: 暴风资源
+          description: 暴风资源全面升级，无水印，三网直连，秒拉秒播，全网最快没有之一。
+          url: https://bfzy.tv
