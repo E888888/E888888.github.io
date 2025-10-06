@@ -52,7 +52,10 @@ content:
         - name: 奶牛快传
           description: 免费大文件传输工具，上传下载不限速。
           url: https://cowtransfer.com
- 
+        - name: 软件库
+          description: 
+          url: https://www.ilanzou.com/s/wEEZ2L3i?code
+          
     - name: 🔥云空间
       sites:
         - name: 蓝奏云
@@ -167,5 +170,5 @@ content:
     - name: 💎生活酷站
       sites:
         - name: 下厨房
-          description: 美食菜谱在家烹饪，简单做好美食。
+          description: 美食菜谱在家烹饪，简单做好美菜。
           url: https://www.xiachufang.com
