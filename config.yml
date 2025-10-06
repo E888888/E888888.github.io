@@ -163,3 +163,9 @@ content:
         - name: SteamGridDB
           description:  免费定制几乎所有游戏的艺术作品！
           url: https://www.steamgriddb.com
+
+    - name: 💎生活酷站
+      sites:
+        - name: 下厨房
+          description: 美食菜谱在家烹饪，简单做好美食。
+          url: https://www.xiachufang.com
