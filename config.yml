@@ -30,6 +30,7 @@ webstack:
       - github
       - weibo
       - baidu
+      - bilibili
       - zhihu
 
 content:
