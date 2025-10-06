@@ -55,10 +55,10 @@ content:
     - name: 🔥云空间
       sites:
         - name: 蓝奏云
-          description: 下载不限速度，不限流量，不限次数，免登录下载！♾️储存空间，单个文件限制大小 100MB。
+          description: 不限速度，不限流量，免登录下载！♾️储存空间，单个文件限制大小 100MB。
           url: https://www.lanzou.com
         - name: 蓝奏云·优享版
-          description: 下载不限速度，不限流量，不限次数，免登录下载！10G 免费空间，无单个文件大小限制。
+          description: 不限速度，不限流量，免登录下载！10G 免费空间，无单个文件大小限制。
           url: https://www.ilanzou.com
 
     - name: 🔥热门邮箱
@@ -145,16 +145,16 @@ content:
     - name: 💎游戏资源
       sites:
         - name: WeGame
-          description: 集成游戏资讯、购买、下载、直播及社区互动等一站式服务，具有汉化支持、社交功能和稳定国服等本地化优势。
+          description: 集成游戏资讯、购买、下载、直播及社区互动等一站式服务。
           url: https://www.wegame.com.cn/home
         - name: Steam
-          description: 全球领先数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能，是PC游戏生态的核心枢纽。‌
+          description: 领先的数字游戏发行平台，提供游戏购买、社交互动及创意工坊等功能。‌
           url: https://store.steampowered.com
         - name: Epic
           description: 综合性数字游戏商店，用户可购买、下载和管理游戏，每周四赠送免费游戏。‌‌
           url: https://store.epicgames.com/zh-CN
         - name: 风灵月影
-          description: 由玩家自主研制开发的免费游戏修改器合集，在游戏中使用修改器可以调整游戏难度、增加游戏资源等。
+          description: 玩家自主研制的免费游戏修改器合集，在游戏中使用可以调整游戏难度。
           url: https://flingtrainer.com
         - name: SteamDB
           description: 专业查询各类游戏发售情况与历史最低价格。
