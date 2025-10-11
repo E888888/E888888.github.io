@@ -43,6 +43,9 @@ content:
         - name: AmyMind
           description: Ai思维导图生成器，轻松创建思维导图。
           url: https://amymind.com/zh-cn
+        - name: 微步云沙箱
+          description: 在线文件威胁分析，高效检测20种大类威胁、1000+木马家族、1000+APT组织。
+          url: https://s.threatbook.com/
         - name: IP111
           description: 全方位查询您的IP地址。
           url: https://www.ip111.cn
@@ -52,9 +55,6 @@ content:
         - name: 奶牛快传
           description: 免费大文件传输工具，上传下载不限速。
           url: https://cowtransfer.com
-        - name: 软件库
-          description: 
-          url: https://www.ilanzou.com/s/wEEZ2L3i?code
           
     - name: 🔥云空间
       sites:
@@ -64,6 +64,18 @@ content:
         - name: 蓝奏云·优享版
           description: 不限速度，不限流量，免登录下载！10G 免费空间，无单个文件大小限制。
           url: https://www.ilanzou.com
+        - name:百度网盘
+          description:  
+          url: https://pan.baidu.com/
+        - name:坚果云
+          description: 强大的同步能力，智能增量同步。
+          url: https://www.jianguoyun.com/
+        - name: 软件库
+          description: 
+          url: https://www.ilanzou.com/s/wEEZ2L3i?code
+        - name: 媒体库
+          description: 
+          url: https://www.ilanzou.com/s/qh7Nupc5?code
 
     - name: 🔥热门邮箱
       sites:
