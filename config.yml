@@ -64,17 +64,17 @@ content:
         - name: 蓝奏云·优享版
           description: 不限速度，不限流量，免登录下载！10G 免费空间，无单个文件大小限制。
           url: https://www.ilanzou.com
-        - name:百度网盘
+        - name: 百度网盘
           description:
           url: https://pan.baidu.com/
-        - name:坚果云
+        - name: 坚果云
           description: 强大的同步能力，智能增量同步。
           url: https://www.jianguoyun.com/
         - name: 软件库
-          description:
+          description: 
           url: https://www.ilanzou.com/s/wEEZ2L3i?code
         - name: 媒体库
-          description:
+          description: 
           url: https://www.ilanzou.com/s/qh7Nupc5?code
 
     - name: 🔥热门邮箱
