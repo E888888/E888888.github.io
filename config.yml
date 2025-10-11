@@ -64,7 +64,7 @@ content:
         - name: 蓝奏云·优享版
           description: 不限速度，不限流量，免登录下载！10G 免费空间，无单个文件大小限制。
           url: https://www.ilanzou.com
-       - name:百度网盘
+        - name:百度网盘
           description:
           url: https://pan.baidu.com/
         - name:坚果云
