@@ -77,7 +77,7 @@ content:
     - name: 📧热门邮箱
       sites:
         - name: 网易免费邮
-          description: 163网易免费邮，你的专业电子邮局。
+          description: 你的专业电子邮局。
           url: https://mail.163.com
         - name: Gmail
           description: 免费、私密且安全的电子邮件。
