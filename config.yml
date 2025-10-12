@@ -35,7 +35,7 @@ webstack:
 
 content:
   categories:
-    - name: 🔥热门必备
+    - name: 🏖热门必备
       sites:
         - name: 秘塔Ai搜索
           description: 没有广告，直达结果。
@@ -53,7 +53,7 @@ content:
           description: 一个在线的、基于Git的版本控制和代码托管平台。
           url: https://github.com
           
-    - name: 🔥云空间
+    - name: 🏖云空间
       sites:
         - name: 蓝奏云
           description: 
@@ -74,7 +74,7 @@ content:
           description: 
           url: https://www.ilanzou.com/s/qh7Nupc5?code
 
-    - name: 🔥热门邮箱
+    - name: 🏖热门邮箱
       sites:
         - name: 网易免费邮
           description: 163网易免费邮，你的专业电子邮局。
@@ -101,7 +101,7 @@ content:
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
 
-    - name: 🔍资源搜索
+    - name: 🏖资源搜索
       sites:
         - name: 柒夜导航
           description: 网站资源集。
@@ -113,7 +113,7 @@ content:
           description: 阿里云盘搜索神器。
           url: https://www.alipansou.com
 
-    - name: 🎬影视追剧
+    - name: 🏖影视追剧
       sites:
         - name: 高清影视
           description: 发现、探索全球优质的影视资源。
@@ -128,7 +128,7 @@ content:
           description: 资源升级，无水印，三网直连，秒拉秒播。
           url: https://bfzy.tv
 
-    - name: 💎高清图库
+    - name: 🏖高清图库
       sites:
         - name: Wallhaven
           description: 超棒的壁纸资源地。
@@ -143,7 +143,7 @@ content:
           description: 操作简单，效率高。
           url: https://www.tpqxb.com
 
-    - name: 💎软件中心
+    - name: 🏖软件中心
       sites:
         - name: 数码荔枝
           description: 专注于分享新鲜优秀的正版软件（正版软件购买）。
@@ -155,7 +155,7 @@ content:
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
 
-    - name: 💎游戏资源
+    - name: 🏖游戏资源
       sites:
         - name: Steam
           description: 领先的数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能。‌
@@ -176,7 +176,7 @@ content:
           description:  提供游戏媒体资源（如封面、图标和启动画面）的数据库网站。
           url: https://www.steamgriddb.com
 
-    - name: 💎生活酷站
+    - name: 🏖生活酷站
       sites:
         - name: 下厨房
           description: 美食菜谱在家烹饪，简单做好菜。
