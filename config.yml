@@ -59,16 +59,16 @@ content:
     - name: 🔥云空间
       sites:
         - name: 蓝奏云
-          description: 不限速度，不限流量，免登录下载！♾️储存空间，单个文件限制大小 100MB。
+          description: 
           url: https://www.lanzou.com
         - name: 蓝奏云·优享版
-          description: 不限速度，不限流量，免登录下载！10G 免费空间，无单个文件大小限制。
+          description: 
           url: https://www.ilanzou.com
         - name: 百度网盘
           description:
           url: https://pan.baidu.com/
         - name: 坚果云
-          description: 强大的同步能力，智能增量同步。
+          description: 
           url: https://www.jianguoyun.com/
         - name: 软件库
           description: 
@@ -86,7 +86,7 @@ content:
           description: 免费、私密且安全的电子邮件。
           url: https://mail.google.com
         - name: 完美邮箱
-          description: 新一代个人免费邮箱，完美邮箱让沟通更正式，更完美。
+          description: 完美邮箱让沟通更正式，更完美。
           url: https://www.88.com
 
     - name: 🔥ICO图标
@@ -95,7 +95,7 @@ content:
           description: 在线免费生成透明ICO图标。
           url: https://www.ico51.cn
         - name: ICO图标转换
-          description: 在线免费快速的将您图片转换成多尺寸ICO图标格式。
+          description: 在线快速的将图片转换成多尺寸ICO图标格式。
           url: https://ico.pljzy.top
         - name: APP ICON
           description: 在线从 App Store 下载高清应用图标。
@@ -107,10 +107,10 @@ content:
     - name: 🔍资源搜索
       sites:
         - name: 柒夜导航
-          description: 黑科技网站资源集。
+          description: 网站资源集。
           url: https://nav.qinight.com 
         - name: 千帆搜索
-          description: 坚持做最好用的 聚合网盘搜索引擎，服务你我他，深藏功与名！
+          description: 聚合网盘搜索引擎，服务你我他！
           url: https://pan.qianfan.app
         - name: 猫狸盘搜
           description: 阿里云盘搜索神器。
@@ -119,7 +119,7 @@ content:
     - name: 🎬影视追剧
       sites:
         - name: 高清影视
-          description: 发现和探索全球优质的影视资源，高清才是硬道理。
+          description: 发现、探索全球优质的影视资源。
           url: https://watch.readzn.com
         - name: 搜片影视
           description: 搜你想看的影片。
@@ -128,7 +128,7 @@ content:
           description: 午夜不卡，电影天堂。
           url: https://zmcdy.com
         - name: 暴风资源
-          description: 暴风资源全面升级，无水印，三网直连，秒拉秒播。
+          description: 资源升级，无水印，三网直连，秒拉秒播。
           url: https://bfzy.tv
 
     - name: 💎高清图库
@@ -143,19 +143,19 @@ content:
           description: 超棒的免费图片放大网站。
           url: https://cappuccino.moe
         - name: 图片清晰吧
-          description: 操作简单，用着顺手，效率高。
+          description: 操作简单，效率高。
           url: https://www.tpqxb.com
 
     - name: 💎软件中心
       sites:
         - name: 数码荔枝
-          description: 专注于分享最新鲜优秀的正版软件（正版软件购买）。
+          description: 专注于分享新鲜优秀的正版软件（正版软件购买）。
           url: https://lizhi.shop
         - name: 腾讯软件
           description: 海量软件一键下载安装|安全无捆绑|更新无插件|卸载无残留。
           url: https://pc.qq.com
         - name: 极简插件
-          description: 浏览器插件下载。
+          description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
           
     - name: 💎游戏资源
