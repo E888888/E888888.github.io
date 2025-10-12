@@ -167,7 +167,7 @@ content:
           description: 领先的数字游戏发行平台，提供游戏购买、社交互动及创意工坊等功能。‌
           url: https://store.steampowered.com
         - name: Epic
-          description: 综合性数字游戏商店，用户可购买、下载和管理游戏，每周四赠送免费游戏。‌‌
+          description: 综合性数字游戏商店，用户可购买、下载和管理游戏，每周四免费赠送游戏。‌‌
           url: https://store.epicgames.com/zh-CN
         - name: 风灵月影
           description: 玩家自主研制的免费游戏修改器合集，在游戏中使用可以调整游戏难度。
@@ -176,11 +176,11 @@ content:
           description: 专业查询各类游戏发售情况与历史最低价格。
           url: https://steamdb.info
         - name: SteamGridDB
-          description:  免费定制几乎所有游戏的艺术作品！
+          description:  下载并共享自定义视频游戏资产，个性化您的游戏库。
           url: https://www.steamgriddb.com
 
     - name: 💎生活酷站
       sites:
         - name: 下厨房
-          description: 美食菜谱在家烹饪，简单做好美菜。
+          description: 美食菜谱在家烹饪，简单做好菜。
           url: https://www.xiachufang.com
