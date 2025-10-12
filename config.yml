@@ -155,10 +155,7 @@ content:
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
 
-- taxonomy: 💎游戏资源
-  list: 
-    - term: 游戏平台
-      links:
+    - name: 💎游戏资源
       sites:
         - name: Steam
           description: 领先的数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能。‌
