@@ -52,9 +52,6 @@ content:
         - name: Github
           description: 一个在线的、基于Git的版本控制和代码托管平台。
           url: https://github.com
-        - name: 奶牛快传
-          description: 免费大文件传输工具，上传下载不限速。
-          url: https://cowtransfer.com
           
     - name: 🔥云空间
       sites:
