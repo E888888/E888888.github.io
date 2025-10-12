@@ -157,15 +157,15 @@ content:
           
     - name: 💎游戏资源
       sites:
-        - name: WeGame
-          description: 集成游戏资讯、购买、下载、直播及社区互动等一站式服务。
-          url: https://www.wegame.com.cn/home
         - name: Steam
-          description: 领先的数字游戏发行平台，提供游戏购买、社交互动及创意工坊等功能。‌
+          description: 领先的数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能。‌
           url: https://store.steampowered.com
         - name: Epic
           description: 综合性数字游戏商店，用户可购买、下载和管理游戏，每周四免费赠送游戏。‌‌
           url: https://store.epicgames.com/zh-CN
+        - name: WeGame
+          description: 集成游戏资讯、购买、下载、直播及社区互动等一站式服务。
+          url: https://www.wegame.com.cn/home
         - name: 风灵月影
           description: 玩家自主研制的免费游戏修改器合集，在游戏中使用可以调整游戏难度。
           url: https://flingtrainer.com
