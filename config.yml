@@ -157,7 +157,6 @@ content:
           
     - name: 💎游戏资源
       sites:
-    - name: 💎游戏平台
         - name: Steam
           description: 领先的数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能。‌
           url: https://store.steampowered.com
@@ -170,7 +169,6 @@ content:
         - name: 风灵月影
           description: 玩家自主研制的免费游戏修改器合集，在游戏中使用可以调整游戏难度。
           url: https://flingtrainer.com
-    - name: 💎游戏海报
         - name: SteamDB
           description: 专业查询各类游戏发售情况与历史最低价格。
           url: https://steamdb.info
