@@ -95,18 +95,9 @@ content:
 
     - name: 💎影视追剧
       sites:
-        - name: 高清影视
-          description: 发现、探索全球优质影视资源。
-          url: https://watch.readzn.com
         - name: 搜片影视
           description: 搜你想看的影片。
           url: https://soupian.pro
-        - name: 神马影院
-          description: 午夜不卡，电影天堂。
-          url: https://zmcdy.com
-        - name: 暴风资源
-          description: 资源升级，无水印，三网直连，秒拉秒播。
-          url: https://bfzy.tv
 
     - name: 💎ICO图标
       sites:
