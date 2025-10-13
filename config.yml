@@ -67,12 +67,6 @@ content:
         - name: 坚果云
           description: 
           url: https://www.jianguoyun.com/
-        - name: 软件库
-          description: 
-          url: https://www.ilanzou.com/s/wEEZ2L3i?code
-        - name: 媒体库
-          description: 
-          url: https://www.ilanzou.com/s/qh7Nupc5?code
 
     - name: 📧热门邮箱
       sites:
@@ -128,12 +122,6 @@ content:
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
 
-    - name: 💎高清图库
-      sites:
-        - name: Wallhaven
-          description: 超棒的壁纸资源地。
-          url: https://wallhaven.cc
-
     - name: 💎图片工具
       sites:
         - name: 图片放大
@@ -148,9 +136,6 @@ content:
         - name: 数码荔枝
           description: 专注于分享新鲜优秀的正版软件（正版软件购买）。
           url: https://lizhi.shop
-        - name: 腾讯软件
-          description: 海量软件一键下载安装|安全无捆绑|更新无插件|卸载无残留。
-          url: https://pc.qq.com
         - name: 极简插件
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
