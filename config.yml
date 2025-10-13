@@ -46,13 +46,16 @@ content:
           url: https://amymind.com/zh-cn
         - name: 微步云沙箱
           description: 在线文件威胁分析，高效检测20种大类威胁、1000+木马家族、1000+APT组织。
-          url: https://s.threatbook.com/
+          url: https://s.threatbook.com
         - name: IP111
           description: 全方位查询您的IP地址。
           url: https://www.ip111.cn
         - name: Github
           description: 一个在线的、基于Git的版本控制和代码托管平台。
           url: https://github.com
+        - name: East个人主页
+          description: 你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨。
+          url: https://o88888.github.io
           
     - name: ☁️云空间
       sites:
@@ -64,10 +67,10 @@ content:
           url: https://www.ilanzou.com
         - name: 百度网盘
           description:
-          url: https://pan.baidu.com/
+          url: https://pan.baidu.com
         - name: 坚果云
           description: 
-          url: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com
 
     - name: 📧热门邮箱
       sites:
