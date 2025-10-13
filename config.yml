@@ -1,4 +1,4 @@
-# title of website
+    # title of website
 title: East导航
 
 # description of website
@@ -83,9 +83,6 @@ content:
 
     - name: 💎资源搜索
       sites:
-        - name: 柒夜导航
-          description: 网站资源集。
-          url: https://nav.qinight.com 
         - name: 千帆搜索
           description: 聚合网盘搜索引擎。
           url: https://pan.qianfan.app
