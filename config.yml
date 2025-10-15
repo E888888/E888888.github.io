@@ -114,6 +114,7 @@ content:
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
 
+    - taxonomy: 灵感采集
     - name: 💎图片工具
       sites:
         - name: 图片放大
