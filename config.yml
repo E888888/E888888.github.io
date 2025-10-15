@@ -36,6 +36,7 @@ webstack:
 
 content:
   categories:
+  ---
   
 - taxonomy: 常用推荐
   icon: fa-star
