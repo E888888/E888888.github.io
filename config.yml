@@ -60,7 +60,7 @@ content:
           description: 全方位查询您的IP地址。
           url: https://www.ip111.cn
           
-    - name: ☁️云空间
+    - name: ☁️网络云盘
       sites:
         - name: 蓝奏云
           description: 
@@ -75,7 +75,7 @@ content:
           description: 
           url: https://www.jianguoyun.com
 
-    - name: 📧热门邮箱
+    - name: 📧电子邮箱
       sites:
         - name: 163网易免费邮
           description: 您的专业电子邮局。
