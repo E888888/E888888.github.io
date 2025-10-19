@@ -107,6 +107,10 @@ content:
         - name: 网易云音乐无损解析
           description: 让音乐触手可及。
           url: https://www.kanxizai.cn/163_music
+        sites:
+        - name: 短视频解析
+          description: 解析各平台短视频，去除水印。
+          url: https://api.spapi.cn       
 
     - name: 💎ICO图标
       sites:
@@ -170,3 +174,9 @@ content:
         - name: 京东商城
           description: 多快好省，购物逛京东。
           url: https://www.jd.com
+
+    - name: 💎精致生活
+      sites:
+        - name: 下厨房
+          description: 唯有美食与爱不可辜负。
+          url: https://www.xiachufang.com
