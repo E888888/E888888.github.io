@@ -110,7 +110,7 @@ content:
         sites:
         - name: 短视频解析
           description: 解析各平台短视频，去除水印。
-          url: https://api.spapi.cn       
+          url: https://api.spapi.cn
 
     - name: 💎ICO图标
       sites:
