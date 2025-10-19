@@ -167,7 +167,6 @@ content:
         - name: 历史价格查询
           description: 识破商家 “ 假 ” 促销！历史价格查询。
           url: https://m.gwdang.com/trendIndex
-                sites:
         - name: 京东商城
           description: 多快好省，购物逛京东。
           url: https://www.jd.com
