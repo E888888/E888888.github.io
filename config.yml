@@ -102,6 +102,12 @@ content:
           description: 搜你想看的影片。
           url: https://soupian.pro
 
+    - name: 💎媒体工具
+      sites:
+        - name: 网易云无损解析
+          description: 让音乐触手可及。
+          url: https://www.kanxizai.cn/163_music
+
     - name: 💎ICO图标
       sites:
         - name: ICO51
