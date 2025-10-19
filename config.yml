@@ -59,7 +59,19 @@ content:
         - name: IP111
           description: 全方位查询您的IP地址。
           url: https://www.ip111.cn
-          
+
+    - name: 📧电子邮箱
+      sites:
+        - name: 163网易免费邮
+          description: 您的专业电子邮局。
+          url: https://mail.163.com
+        - name: Gmail
+          description: 免费、私密的电子邮箱。
+          url: https://mail.google.com
+        - name: 完美邮箱
+          description: 让沟通更正式，更完美。
+          url: https://www.88.com
+
     - name: ☁️网络云盘
       sites:
         - name: 蓝奏云
@@ -75,19 +87,7 @@ content:
           description: 
           url: https://www.jianguoyun.com
 
-    - name: 📧电子邮箱
-      sites:
-        - name: 163网易免费邮
-          description: 您的专业电子邮局。
-          url: https://mail.163.com
-        - name: Gmail
-          description: 免费、私密的电子邮箱。
-          url: https://mail.google.com
-        - name: 完美邮箱
-          description: 让沟通更正式，更完美。
-          url: https://www.88.com
-
-    - name: 💎资源搜索
+    - name: 🔍资源搜索
       sites:
         - name: 千帆搜索
           description: 聚合网盘搜索引擎。
@@ -96,19 +96,19 @@ content:
           description: 阿里云盘搜索神器。
           url: https://www.alipansou.com
 
-    - name: 💎影视追剧
+    - name: 🎬影视追剧
       sites:
         - name: 搜片影视
           description: 搜你想看的影片。
           url: https://soupian.pro
 
-    - name: 💎媒体工具
+    - name: 🎶媒体工具
       sites:
         - name: 网易云音乐无损解析
           description: 让音乐触手可及。
           url: https://www.kanxizai.cn/163_music
 
-    - name: 💎ICO图标
+    - name: 🌃ICO图标
       sites:
         - name: ICO51
           description: 在线生成透明ICO图标。
@@ -123,7 +123,7 @@ content:
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
 
-    - name: 💎图片工具
+    - name: 🌁图片工具
       sites:
         - name: 图片放大
           description: 超棒的免费图片放大网站。
@@ -141,7 +141,7 @@ content:
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
 
-    - name: 💎游戏资源
+    - name: 🎮游戏资源
       sites:
         - name: Steam
           description: 领先的数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能。‌
