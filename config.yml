@@ -108,7 +108,7 @@ content:
           description: 让音乐触手可及。
           url: https://www.kanxizai.cn/163_music
 
-    - name: 🌃ICO图标
+    - name: 💎ICO图标
       sites:
         - name: ICO51
           description: 在线生成透明ICO图标。
@@ -123,7 +123,7 @@ content:
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
 
-    - name: 🌁图片工具
+    - name: 💎图片工具
       sites:
         - name: 图片放大
           description: 超棒的免费图片放大网站。
