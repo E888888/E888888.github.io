@@ -61,7 +61,7 @@ content:
           url: https://www.ip111.cn
          - name: 天启接码
           description: 专业号码接收服务。
-          url: https://www.tqsms.xyz         
+          url: https://www.tqsms.xyz
 
     - name: 📧电子邮箱
       sites:
