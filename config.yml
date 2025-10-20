@@ -176,6 +176,9 @@ content:
         - name: 淘宝
           description: 淘宝，淘你喜欢。
           url: https://www.taobao.com
+        - name: 唯品会
+          description: 品牌特卖，就是超值。
+          url: https://www.vip.com
 
     - name: 💎精致生活
       sites:
