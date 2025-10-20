@@ -71,6 +71,9 @@ content:
         - name: 完美邮箱
           description: 让沟通更正式，更完美。
           url: https://www.88.com
+        - name: 临时邮箱
+          description: 安全且匿名的临时邮箱。
+          url: https://tempmail100.com/zh-cn
 
     - name: ☁️网络云盘
       sites:
@@ -101,6 +104,12 @@ content:
         - name: 搜片影视
           description: 搜你想看的影片。
           url: https://soupian.pro
+        - name: 毒舌电影
+          description: 每天更新欧美日韩电影。
+          url: https://www.dushe1.app
+        - name: 无广告TV
+          description: 全网电影、电视剧、动漫、短剧在线随心看。
+          url: https://www.5ggtv.com
 
     - name: 🎶媒体工具
       sites:
@@ -110,7 +119,7 @@ content:
         - name: 短视频解析
           description: 解析各平台短视频，去除水印。
           url: https://api.spapi.cn
-
+          
     - name: 💎ICO图标
       sites:
         - name: ICO51
