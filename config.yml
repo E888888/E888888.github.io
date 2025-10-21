@@ -177,7 +177,7 @@ content:
           description:  提供游戏媒体资源（如封面、图标和启动画面）的数据库网站。
           url: https://www.steamgriddb.com
         - name: 3DM
-          description: 一款集游戏商城、攻略评测、游戏工具、战绩查询、游戏视频为一体的游戏社区。
+          description: 一款集游戏商城、攻略评测、游戏工具、游戏视频为一体的游戏社区。
           url: https://www.3dmgame.com
 
     - name: 🛒网络购物
