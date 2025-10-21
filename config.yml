@@ -75,16 +75,19 @@ content:
     - name: ☁️网络云盘
       sites:
         - name: 蓝奏云
-          description: 
+          description: 上传下载不限速，免登录下载！（无限空间，免费用户：单文件最大为100M）。
           url: https://www.lanzou.com
         - name: 蓝奏云·优享版
-          description: 
+          description: 上传下载不限速，免登录下载！（免费空间：10G）。
           url: https://www.ilanzou.com
         - name: 百度网盘
-          description:
+          description: “云”上的日子，享你所想。
           url: https://pan.baidu.com
+        - name: 阿里云盘
+          description: 备份无忧，整理有序。
+          url: https://www.alipan.com          
         - name: 坚果云
-          description: 
+          description: 让你的文件，在任何设备上都能即时同步。
           url: https://www.jianguoyun.com
 
     - name: 🔍资源搜索
