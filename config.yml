@@ -102,7 +102,7 @@ content:
     - name: 🎬影视追剧
       sites:
         - name: 腾讯视频
-          description: 领先的在线视频媒体平台，丰富的内容、极致的观看体验。
+          description: 在线视频媒体平台，丰富的内容、极致的观看体验。
           url: https://m.v.qq.com
         - name: 搜片影视
           description: 搜你想看的影片。
