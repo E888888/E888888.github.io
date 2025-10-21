@@ -149,6 +149,9 @@ content:
         - name: 数码荔枝
           description: 专注于分享新鲜优秀的正版软件（正版软件购买）。
           url: https://lizhi.shop
+        - name: Uptodown
+          description: 多平台应用商店，最赞的是支持各种软件的历史版本下载！
+          url: https://cn.uptodown.com 
         - name: 极简插件
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
