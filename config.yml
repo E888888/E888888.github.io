@@ -203,9 +203,9 @@ content:
 
     - name: 💎友情链接
       sites:
-        - name: East个人主页
+        - name: East主页
           description: 你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨。
           url: https://o88888.github.io
-        - name: East资源中心
+        - name: East软仓
           description: 资源整理与下载。
           url: https://E888888.github.io/APP
