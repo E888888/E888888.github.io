@@ -41,12 +41,6 @@ content:
         - name: Github
           description: 一个在线的、基于Git的版本控制和代码托管平台。
           url: https://github.com
-        - name: East个人主页
-          description: 你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨。
-          url: https://o88888.github.io
-        - name: East资源中心
-          description: 资源整理与下载。
-          url: https://E888888.github.io/APP
         - name: 秘塔Ai搜索
           description: 没有广告，直达结果。
           url: https://metaso.cn
@@ -197,3 +191,12 @@ content:
         - name: 下厨房
           description: 唯有美食与爱不可辜负。
           url: https://www.xiachufang.com
+
+    - name: 💎友情链接
+      sites:
+        - name: East个人主页
+          description: 你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨。
+          url: https://o88888.github.io
+        - name: East资源中心
+          description: 资源整理与下载。
+          url: https://E888888.github.io/APP
