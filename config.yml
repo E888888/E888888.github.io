@@ -34,7 +34,7 @@ webstack:
       - bilibili
 
 content: 
-  categories:
+  categories: 
     - name: 常用推荐
       sites:
         - name: Github
