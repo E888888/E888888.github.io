@@ -117,7 +117,6 @@ content:
           description: 全网电影、电视剧、动漫、短剧在线随心看。
           url: https://www.5ggtv.com
 
-  categories: 图片工具
     - name: 媒体工具
       sites:
         - name: 网易云音乐无损解析
