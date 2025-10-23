@@ -206,6 +206,28 @@ content:
           description: 唯有美食与爱不可辜负。
           url: https://www.xiachufang.com
 
+
+    - name: 银行门户
+      sites:
+        - name: 中国银行
+          description: 百年中行百年辉煌！
+          url: https://www.boc.cn
+        - name: 工商银行
+          description: 你身边的银行，可信赖的银行。
+          url: https://www.icbc.com.cn
+        - name: 建设银行
+          description: 建现在，见未来。
+          url: https://www.ccb.com
+        - name: 农业银行
+          description: 财智有道，通达无限；惠农天下，益农万家！
+          url: https://www.abchina.com
+        - name: 邮政银行
+          description: 邮银财富，伴您成就每一步。
+          url: https://www.psbc.com
+        - name: 广发银行
+          description: 以心相交，成其久远。
+          url: https://www.cgbchina.com.cn
+
     - name: 友情链接
       sites:
         - name: East主页
