@@ -35,7 +35,7 @@ webstack:
 
 
 content:
-  categories: 装逼犯
+  categories:
     - name: 常用推荐
       sites:
         - name: Github
