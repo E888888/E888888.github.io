@@ -59,7 +59,7 @@ content:
           description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com
 
-- name: 电子邮箱
+    - name: 电子邮箱
       sites:
         - name: 163网易免费邮
           description: 您的专业电子邮局。
