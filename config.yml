@@ -184,3 +184,33 @@ content:
         - name: 3DM
           description: 一款集游戏商城、攻略评测、游戏工具、游戏视频为一体的游戏社区。
           url: https://www.3dmgame.com
+
+    - name: 网络购物
+      sites:
+        - name: 历史价格查询
+          description: 识破商家 “ 假 ” 促销！历史价格查询。
+          url: https://m.gwdang.com/trendIndex
+        - name: 京东商城
+          description: 购物逛京东，又好又便宜。
+          url: https://www.jd.com
+        - name: 淘宝
+          description: 淘宝，淘你喜欢。
+          url: https://www.taobao.com
+        - name: 唯品会
+          description: 品牌特卖，就是超值。
+          url: https://www.vip.com
+
+    - name: 精致生活
+      sites:
+        - name: 下厨房
+          description: 唯有美食与爱不可辜负。
+          url: https://www.xiachufang.com
+
+    - name: 友情链接
+      sites:
+        - name: East主页
+          description: 你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨。
+          url: https://o88888.github.io
+        - name: East软仓
+          description: 资源整理与下载。
+          url: https://E888888.github.io/APP
