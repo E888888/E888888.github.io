@@ -36,7 +36,7 @@ webstack:
 
 content:
   categories:
-    - name: 🔥常用推荐
+    - name: 常用推荐
       sites:
         - name: Github
           description: 一个在线的、基于Git的版本控制和代码托管平台。
@@ -60,7 +60,7 @@ content:
           description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com
 
-    - name: 📧电子邮箱
+    - name: 电子邮箱
       sites:
         - name: 163网易免费邮
           description: 您的专业电子邮局。
@@ -75,7 +75,7 @@ content:
           description: 安全且匿名的临时邮箱。
           url: https://tempmail100.com/zh-cn
 
-    - name: ☁️网络云盘
+    - name: 网络云盘
       sites:
         - name: 蓝奏云
           description: 上传下载不限速，免登录下载！（无限空间，免费用户：单文件最大为100M）。
@@ -93,7 +93,7 @@ content:
           description: 让你的文件，在任何设备上都能即时同步。
           url: https://www.jianguoyun.com
 
-    - name: 🔍资源搜索
+    - name: 资源搜索
       sites:
         - name: 千帆搜索
           description: 聚合网盘搜索引擎。
@@ -102,7 +102,7 @@ content:
           description: 阿里云盘搜索神器。
           url: https://www.alipansou.com
 
-    - name: 🎬影视追剧
+    - name: 影视追剧
       sites:
         - name: 腾讯视频
           description: 在线视频媒体平台，丰富的内容、极致的观看体验。
@@ -117,7 +117,7 @@ content:
           description: 全网电影、电视剧、动漫、短剧在线随心看。
           url: https://www.5ggtv.com
 
-    - name: 🎶媒体工具
+    - name: 媒体工具
       sites:
         - name: 网易云音乐无损解析
           description: 让音乐触手可及。
@@ -126,7 +126,7 @@ content:
           description: 解析各平台短视频，去除水印。
           url: https://api.spapi.cn
           
-    - name: 💎ICO图标
+    - name: ICO图标
       sites:
         - name: ICO51
           description: 在线生成透明ICO图标。
@@ -141,7 +141,7 @@ content:
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
 
-    - name: 💎图片工具
+    - name: 图片工具
       sites:
         - name: 图片放大
           description: 超棒的免费图片放大网站。
@@ -150,7 +150,7 @@ content:
           description: 操作简单，效率高。
           url: https://www.tpqxb.com
 
-    - name: 💎软件中心
+    - name: 软件中心
       sites:
         - name: 数码荔枝
           description: 专注于分享新鲜优秀的正版软件（正版软件购买）。
@@ -162,7 +162,7 @@ content:
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
 
-    - name: 🎮游戏资源
+    - name: 游戏资源
       sites:
         - name: Steam
           description: 领先的数字游戏发行平台，提供游戏购买、下载、社交互动及创意工坊等功能。‌
@@ -186,7 +186,7 @@ content:
           description: 一款集游戏商城、攻略评测、游戏工具、游戏视频为一体的游戏社区。
           url: https://www.3dmgame.com
 
-    - name: 🛒网络购物
+    - name: 网络购物
       sites:
         - name: 历史价格查询
           description: 识破商家 “ 假 ” 促销！历史价格查询。
@@ -201,13 +201,13 @@ content:
           description: 品牌特卖，就是超值。
           url: https://www.vip.com
 
-    - name: 💎精致生活
+    - name: 精致生活
       sites:
         - name: 下厨房
           description: 唯有美食与爱不可辜负。
           url: https://www.xiachufang.com
 
-    - name: 💎友情链接
+    - name: 友情链接
       sites:
         - name: East主页
           description: 你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨。
