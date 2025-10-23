@@ -58,3 +58,60 @@ content:
         - name: 白描
           description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com
+
+    - name: 电子邮箱
+      sites:
+        - name: 163网易免费邮
+          description: 您的专业电子邮局。
+          url: https://mail.163.com
+        - name: Gmail
+          description: 免费、私密的电子邮箱。
+          url: https://mail.google.com
+        - name: 完美邮箱
+          description: 让沟通更正式，更完美。
+          url: https://www.88.com
+        - name: TempMail100
+          description: 安全且匿名的临时邮箱。
+          url: https://tempmail100.com/zh-cn
+
+    - name: 网络云盘
+      sites:
+        - name: 蓝奏云
+          description: 上传下载不限速，免登录下载！（无限空间，免费用户：单文件最大为100M）。
+          url: https://www.lanzou.com
+        - name: 蓝奏云·优享版
+          description: 上传下载不限速，免登录下载！（免费空间：10G）。
+          url: https://www.ilanzou.com
+        - name: 百度网盘
+          description: “云”上的日子，享你所想。
+          url: https://pan.baidu.com
+        - name: 阿里云盘
+          description: 备份无忧，整理有序。
+          url: https://www.alipan.com          
+        - name: 坚果云
+          description: 让你的文件，在任何设备上都能即时同步。
+          url: https://www.jianguoyun.com
+
+    - name: 资源搜索
+      sites:
+        - name: 千帆搜索
+          description: 聚合网盘搜索引擎。
+          url: https://pan.qianfan.app
+        - name: 猫狸盘搜
+          description: 阿里云盘搜索神器。
+          url: https://www.alipansou.com
+
+    - name: 影视追剧
+      sites:
+        - name: 腾讯视频
+          description: 在线视频媒体平台，丰富的内容、极致的观看体验。
+          url: https://m.v.qq.com
+        - name: 搜片影视
+          description: 搜你想看的影片。
+          url: https://soupian.pro
+        - name: 毒舌电影
+          description: 每天更新欧美日韩电影。
+          url: https://www.dushe1.app
+        - name: 无广告TV
+          description: 全网电影、电视剧、动漫、短剧在线随心看。
+          url: https://www.5ggtv.com
