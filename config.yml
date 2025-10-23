@@ -35,7 +35,7 @@ webstack:
 
 
 content:
-  categories:
+  categories: 装逼犯
     - name: 常用推荐
       sites:
         - name: Github
@@ -117,6 +117,7 @@ content:
           description: 全网电影、电视剧、动漫、短剧在线随心看。
           url: https://www.5ggtv.com
 
+  categories: 图片工具
     - name: 媒体工具
       sites:
         - name: 网易云音乐无损解析
@@ -125,7 +126,6 @@ content:
         - name: 短视频解析
           description: 解析各平台短视频，去除水印。
           url: https://api.spapi.cn
-          
     - name: ICO图标
       sites:
         - name: ICO51
