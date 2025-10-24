@@ -129,7 +129,7 @@ content:
           url: https://pan.baidu.com
         - name: 阿里云盘
           description: 备份无忧，整理有序。
-          url: https://www.alipan.com          
+          url: https://www.alipan.com
         - name: 坚果云
           description: 让你的文件，在任何设备上都能即时同步。
           url: https://www.jianguoyun.com
@@ -198,7 +198,7 @@ content:
           url: https://lizhi.shop
         - name: Uptodown
           description: 多平台应用商店，最赞的是支持各种软件的历史版本下载！
-          url: https://cn.uptodown.com      
+          url: https://cn.uptodown.com
         - name: 极简插件
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
