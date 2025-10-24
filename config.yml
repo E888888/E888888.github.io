@@ -33,7 +33,7 @@ webstack:
       - weibo
       - bilibili
 
-content: 
+content:
   categories: 
     - name: 常用推荐
       sites:
