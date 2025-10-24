@@ -59,17 +59,59 @@ content:
           description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com
 
+    - name: 缤纷生活
+      sites:
+        - name: 下厨房
+          description: 唯有美食与爱不可辜负。
+          url: https://www.xiachufang.com
+
+    - name: 网络购物
+      sites:
+        - name: 历史价格查询
+          description: 识破商家 “ 假 ” 促销！历史价格查询。
+          url: https://m.gwdang.com/trendIndex
+        - name: 京东商城
+          description: 购物逛京东，又好又便宜。
+          url: https://www.jd.com
+        - name: 淘宝
+          description: 淘宝，淘你喜欢。
+          url: https://www.taobao.com
+        - name: 唯品会
+          description: 品牌特卖，就是超值。
+          url: https://www.vip.com
+
+    - name: 银行门户
+      sites:
+        - name: 中国银行
+          description: 百年中行百年辉煌！
+          url: https://www.boc.cn
+        - name: 工商银行
+          description: 你身边的银行，可信赖的银行。
+          url: https://www.icbc.com.cn
+        - name: 建设银行
+          description: 建现在，见未来。
+          url: https://www.ccb.com
+        - name: 农业银行
+          description: 财智有道，通达无限；惠农天下，益农万家！
+          url: https://www.abchina.com
+        - name: 邮政银行
+          description: 邮银财富，伴您成就每一步。
+          url: https://www.psbc.com
+        - name: 广发银行
+          description: 以心相交，成其久远。
+          url: https://www.cgbchina.com.cn
+          
     - name: 电子邮箱
       sites:
         - name: 163网易免费邮
           description: 您的专业电子邮局。
           url: https://mail.163.com
+         - name: 完美邮箱
+          description: 让沟通更正式，更完美。
+          url: https://www.88.com         
         - name: Gmail
           description: 免费、私密的电子邮箱。
           url: https://mail.google.com
-        - name: 完美邮箱
-          description: 让沟通更正式，更完美。
-          url: https://www.88.com
         - name: TempMail100
           description: 安全且匿名的临时邮箱。
           url: https://tempmail100.com/zh-cn
@@ -184,49 +226,6 @@ content:
         - name: 3DM
           description: 一款集游戏商城、攻略评测、游戏工具、游戏视频为一体的游戏社区。
           url: https://www.3dmgame.com
-
-    - name: 网络购物
-      sites:
-        - name: 历史价格查询
-          description: 识破商家 “ 假 ” 促销！历史价格查询。
-          url: https://m.gwdang.com/trendIndex
-        - name: 京东商城
-          description: 购物逛京东，又好又便宜。
-          url: https://www.jd.com
-        - name: 淘宝
-          description: 淘宝，淘你喜欢。
-          url: https://www.taobao.com
-        - name: 唯品会
-          description: 品牌特卖，就是超值。
-          url: https://www.vip.com
-
-    - name: 缤纷生活
-      sites:
-        - name: 下厨房
-          description: 唯有美食与爱不可辜负。
-          url: https://www.xiachufang.com
-
-
-    - name: 银行门户
-      sites:
-        - name: 中国银行
-          description: 百年中行百年辉煌！
-          url: https://www.boc.cn
-        - name: 工商银行
-          description: 你身边的银行，可信赖的银行。
-          url: https://www.icbc.com.cn
-        - name: 建设银行
-          description: 建现在，见未来。
-          url: https://www.ccb.com
-        - name: 农业银行
-          description: 财智有道，通达无限；惠农天下，益农万家！
-          url: https://www.abchina.com
-        - name: 邮政银行
-          description: 邮银财富，伴您成就每一步。
-          url: https://www.psbc.com
-        - name: 广发银行
-          description: 以心相交，成其久远。
-          url: https://www.cgbchina.com.cn
 
     - name: 友情链接
       sites:
