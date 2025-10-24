@@ -108,7 +108,7 @@ content:
           url: https://mail.163.com
          - name: 完美邮箱
           description: 让沟通更正式，更完美。
-          url: https://www.88.com         
+          url: https://www.88.com
         - name: Gmail
           description: 免费、私密的电子邮箱。
           url: https://mail.google.com
