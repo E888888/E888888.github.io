@@ -166,6 +166,9 @@ content:
         - name: 短视频解析
           description: 解析各平台短视频，去除水印。
           url: https://api.spapi.cn
+        - name: kuku短视频解析
+          description: 免费不限次数，无需登录。支持130多个平台解析去水印。
+          url: https://dy.kukutool.com       
 
     - name: ICO图标
       sites:
@@ -235,3 +238,9 @@ content:
         - name: East软仓
           description: 资源整理与下载。
           url: https://E888888.github.io/APP
+        - name: East软件库
+          description: 
+          url: https://www.ilanzou.com/s/wEEZ2L3i?code
+        - name: East媒体库
+          description: 
+          url: https://www.ilanzou.com/s/qh7Nupc5?code
