@@ -65,6 +65,12 @@ content:
           description: 唯有美食与爱不可辜负。
           url: https://www.xiachufang.com
 
+    - name: 学海无涯
+      sites:
+        - name: 古诗文网
+          description: 古诗文经典传承。
+          url: https://www.gushiwen.cn
+
     - name: 网络购物
       sites:
         - name: 历史价格查询
