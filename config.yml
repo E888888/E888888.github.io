@@ -53,7 +53,7 @@ content:
           description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com
         - name: Wormhole
-          description: 文件临时分享，端到端加密和自动过期链接；确保分享的文件私密且不会一直存留在互联网。
+          description: 文件临时分享；端到端加密和自动过期链接，确保分享的文件私密。
           url: https://wormhole.app
         - name: IP111
           description: 全方位查询您的IP地址。
