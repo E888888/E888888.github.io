@@ -169,6 +169,9 @@ content:
 
     - name: 媒体工具
       sites:
+        - name: 泡椒音乐
+          description: 免费无损音乐MP3、FLAC、WAV在线播放下载网站。
+          url: https://pjmp3.com
         - name: 网易云音乐无损解析
           description: 让音乐触手可及。
           url: https://www.kanxizai.cn/163_music
@@ -177,10 +180,7 @@ content:
           url: https://api.spapi.cn
         - name: kuku短视频解析
           description: 免费不限次数，无需登录。支持130多个平台解析去水印。
-          url: https://dy.kukutool.com       
-
-    - name: ICO图标
-      sites:
+          url: https://dy.kukutool.com
         - name: ICO51
           description: 在线生成透明ICO图标。
           url: https://www.ico51.cn
@@ -193,9 +193,6 @@ content:
         - name: macOS 图标生成器
           description: 兼容 macOS 的图标生成器。
           url: https://yc-w-cn.github.io/macos-compliant-icon-generator
-
-    - name: 图片工具
-      sites:
         - name: 图片放大
           description: 超棒的免费图片放大网站。
           url: https://cappuccino.moe
