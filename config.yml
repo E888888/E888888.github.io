@@ -152,7 +152,7 @@ content:
           description: 阿里云盘搜索神器。
           url: https://www.alipansou.com
 
-    - name:  <i class="fas fa-film" aria-hidden="true" 影视追剧 ></i>
+    - name:  <i class="fas fa-film"></i>影视追剧
       sites:
         - name: 腾讯视频
           description: 在线视频媒体平台，丰富的内容、极致的观看体验。
