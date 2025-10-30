@@ -160,21 +160,27 @@ content:
         - name: 腾讯视频
           description: 在线视频媒体平台，丰富的内容、极致的观看体验。
           url: https://m.v.qq.com
+        - name: 爱奇艺
+          description: 海量正版高清视频在线观看。
+          url: https://m.iqiyi.com
+        - name: 优酷
+          description: 你的热爱正在热播。
+          url: https://www.youku.com
         - name: 搜片影视
           description: 搜你想看的影片。
           url: https://soupian.pro
-        - name: 毒舌电影
-          description: 每天更新欧美日韩电影。
-          url: https://www.dushe1.app
-        - name: 无广告TV
-          description: 全网电影、电视剧、动漫、短剧在线随心看。
-          url: https://www.5ggtv.com
         - name: 夜幕解析
           description: 全网VIP电影视频在线解析。
           url: https://yemu.xyz/shouye
         - name: 简而易网
           description: 全网VIP电影视频在线解析。
           url: https://www.jianeryi.com/videos
+        - name: 毒舌电影
+          description: 每天更新欧美日韩电影。
+          url: https://www.dushe1.app
+        - name: 无广告TV
+          description: 全网电影、电视剧、动漫、短剧在线随心看。
+          url: https://www.5ggtv.com
 
     - name: 媒体工具
       sites:
