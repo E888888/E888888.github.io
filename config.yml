@@ -83,7 +83,7 @@ content:
           description: 提供实时金融数据、新闻、分析和媒体服务。
           url: https://www.bloomberg.com
         - name: 财政部
-          description: 中华人民共和国财政部官方网站。
+          description: 中华人民共和国财政部官方。
           url: https://www.mof.gov.cn/index.htm
         - name: 税务总局
           description: 国家税务总局。
