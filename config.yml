@@ -71,13 +71,13 @@ content:
     - name: 新闻资讯
       sites:
         - name: 财新网
-          description: 整合资讯、观点、多媒体和互动产品，提供7x24小时不间断的原创财经内容，服务于中国政界、金融界、产业界和学界。
+          description: 整合资讯、观点、多媒体和互动产品。
           url: https://www.caixin.com
         - name: BBC中文网
-          description: 面向全球华人并每日更新的新闻资讯网站，提供客观及时和准确的内容以及对新闻故事的深入分析和评论。
+          description: 面向全球华人并每日更新的新闻资讯网站，提供客观及时和准确的内容。
           url: https://www.bbc.com/zhongwen/simp
         - name: 华尔街见闻
-          description: 提供实时、专业的财经资讯。首创了7x24小时的实时新闻推送模式，覆盖股票、外汇、债券、大宗商品等全球金融市场和商业动态。
+          description: 提供实时、专业的财经资讯。覆盖股票、外汇、债券、大宗商品商业动态。
           url: https://wallstreetcn.com
         - name: 彭博社
           description: 提供实时金融数据、新闻、分析和媒体服务。
