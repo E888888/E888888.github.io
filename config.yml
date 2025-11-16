@@ -65,7 +65,7 @@ content:
     - name: 缤纷生活
       sites:
         - name: 收起来
-          description: 一款智能囤货管理APP，智能识别，快速录入；帮你高效整理物品、智能提醒保质期，让生活减少浪费。
+          description: 智能囤货管理APP，扫码识别，快速录入；高效整理物品。
           url: https://pc.shouqilai.cn
         - name: 下厨房
           description: 唯有美食与爱不可辜负。
