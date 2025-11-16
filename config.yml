@@ -34,7 +34,7 @@ webstack:
       - bilibili
 
 content:
-  categories:
+  categories: 日常生活
     - name: 常用推荐
       sites:
         - name: 秘塔Ai搜索
