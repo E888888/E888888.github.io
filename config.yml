@@ -34,7 +34,7 @@ webstack:
       - bilibili
 
 content:
-  categories: 
+  categories: 测试
     - name: 常用推荐
       sites:
         - name: 秘塔Ai搜索
@@ -116,6 +116,7 @@ content:
           description: 品牌特卖，就是超值。
           url: https://www.vip.com
 
+  categories: 测试
     - name: 银行门户
       sites:
         - name: 中国银行
