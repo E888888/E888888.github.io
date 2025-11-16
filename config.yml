@@ -116,7 +116,6 @@ content:
           description: 品牌特卖，就是超值。
           url: https://www.vip.com
 
-  categories: 测试
     - name: 银行门户
       sites:
         - name: 中国银行
