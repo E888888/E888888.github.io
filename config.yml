@@ -34,7 +34,7 @@ webstack:
       - bilibili
 
 content:
-  categories: 
+  categories: 测试1
     - name: 常用推荐
       sites:
         - name: 秘塔Ai搜索
@@ -61,7 +61,6 @@ content:
         - name: 天启接码
           description: 专业号码接收服务。
           url: https://www.tqsms.xyz
-
     - name: 缤纷生活
       sites:
         - name: 收起来
@@ -70,7 +69,6 @@ content:
         - name: 下厨房
           description: 唯有美食与爱不可辜负。
           url: https://www.xiachufang.com
-
     - name: 新闻资讯
       sites:
         - name: 财新网
@@ -91,7 +89,6 @@ content:
         - name: 税务总局
           description: 国家税务总局。
           url: https://www.chinatax.gov.cn
-
     - name: 学海无涯
       sites:
         - name: 道德经网
@@ -101,6 +98,7 @@ content:
           description: 古诗文经典传承。
           url: https://www.gushiwen.cn
 
+  categories: 测试2
     - name: 网络购物
       sites:
         - name: 历史价格查询
@@ -115,7 +113,6 @@ content:
         - name: 唯品会
           description: 品牌特卖，就是超值。
           url: https://www.vip.com
-
     - name: 银行门户
       sites:
         - name: 中国银行
@@ -136,7 +133,6 @@ content:
         - name: 广发银行
           description: 以心相交，成其久远。
           url: https://www.cgbchina.com.cn
-
     - name: 电子邮箱
       sites:
         - name: 163网易免费邮
@@ -151,7 +147,6 @@ content:
         - name: TempMail100
           description: 安全且匿名的临时邮箱。
           url: https://tempmail100.com/zh-cn
-
     - name: 网络云盘
       sites:
         - name: 蓝奏云
@@ -170,6 +165,7 @@ content:
           description: 让你的文件，在任何设备上都能即时同步。
           url: https://www.jianguoyun.com
 
+  categories: 测试3
     - name: 资源搜索
       sites:
         - name: 千帆搜索
@@ -178,7 +174,6 @@ content:
         - name: 猫狸盘搜
           description: 阿里云盘搜索神器。
           url: https://www.alipansou.com
-
     - name: 影视追剧
       sites:
         - name: 腾讯视频
@@ -205,7 +200,6 @@ content:
         - name: 无广告TV
           description: 全网电影、电视剧、动漫、短剧在线随心看。
           url: https://www.5ggtv.com
-
     - name: 媒体工具
       sites:
         - name: 泡椒音乐
@@ -241,7 +235,6 @@ content:
         - name: 图片清晰吧
           description: 操作简单，效率高。
           url: https://www.tpqxb.com
-
     - name: 软件中心
       sites:
         - name: 数码荔枝
@@ -257,6 +250,7 @@ content:
           description: 浏览器插件集。
           url: https://chrome.zzzmh.cn
 
+  categories: 测试4
     - name: 游戏资源
       sites:
         - name: Steam
@@ -280,7 +274,6 @@ content:
         - name: 3DM
           description: 一款集游戏商城、攻略评测、游戏工具、游戏视频为一体的游戏社区。
           url: https://www.3dmgame.com
-
     - name: 友情链接
       sites:
         - name: East主页
